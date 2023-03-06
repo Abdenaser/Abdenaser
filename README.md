@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdenaser Aroukhsiss</h1>
-<h3 align="center">I'm passionate full stack web developer, Data Science, Mobile application.</h3>
+<h3 align="center">I'm passionate full stack web developer, Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdenaser&label=Profile%20views&color=0e75b6&style=flat" alt="abdenaser" /> </p>
 
